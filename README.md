@@ -83,6 +83,6 @@ fetch 와 pull
 * `소스코드` : 소스 코드를 삽입하려면 백틱(`) 기호를 소스 코드를 감쌉니다.
 
 * **링크** : 링크 주소는 다음 세가지 형태로 삽입이 가능
-  - <주소>
-  - [텍스트](주소)
-  - [텍스트](주소, "부가설명")
+  - <주소> : <https://github.com/JUkLee/manuals>
+  - '['텍스트']''('주소')' : [GitHub Readme 설명](https://github.com/JUkLee/manuals)
+  - '['텍스트']''('주소, "부가설명"')' : [GitHub Readme 설명](https://github.com/JUkLee/manuals, "ReadME 참조")
