@@ -86,3 +86,7 @@ fetch 와 pull
   - <주소> : <https://github.com/JUkLee/manuals>
   - '['텍스트']''('주소')' : [GitHub Readme 설명](https://github.com/JUkLee/manuals)
   - '['텍스트']''('주소, "부가설명"')' : [GitHub Readme 설명](https://github.com/JUkLee/manuals, "ReadME 참조")
+
+* **이미지 추가하기** : 이미지를 삽입할 때는 맨 앞에 !를 붙인 후 대체 텍스트와 이미지 파일 경로를 지정. 단, 이미지를 삽입하려면 이미지가 온라인에 있어야 합니다.
+  - '!''['대체 텍스트']''('이미지 파일 경로')'
+  - 
